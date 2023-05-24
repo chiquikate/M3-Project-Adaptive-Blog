@@ -1,0 +1,153 @@
+@font-face {
+  font-family: opensans;
+  src: url(../assets/OpenSans-SemiBold.ttf);
+}
+
+:root {
+  margin: 0;
+  padding: 0;
+  font-family: opensans;
+}
+
+.navbar {
+  background-color: #192140;
+  height: 84px;
+  width: 1440px;
+  display: grid;
+  grid-template-columns: 20%, 60%, 20%;
+}
+
+.refocus-logo {
+  grid-column: 1/2;
+  width: 120px;
+  height: 50px;
+  padding-top: 13px;
+  padding-left: 80px;
+}
+
+.menu-list {
+  grid-column: 2/3;
+  display: flex;
+  align-items: center;
+  color: white;
+  gap: 70px;
+  margin-left: 400px;
+  font-size: 18px;
+  line-height: 24px;
+  font-family: opensans;
+}
+
+p.blog a {
+  text-decoration: none;
+  color: white;
+}
+
+p.about-us a {
+  text-decoration: none;
+  color: white;
+}
+
+p.reviews a {
+  text-decoration: none;
+  color: white;
+}
+
+p.blog a.active {
+  color: #dcf10d;
+}
+
+p.about-us a.active {
+  color: #dcf10d;
+}
+
+p.reviews a.active {
+  color: #dcf10d;
+}
+
+p.blog:hover {
+  color: white;
+  font-weight: 500;
+  font-size: 20px;
+  transition: 400ms;
+}
+
+p.about-us:hover {
+  color: white;
+  font-weight: 500;
+  font-size: 20px;
+  transition: 400ms;
+}
+
+p.reviews:hover {
+  color: white;
+  font-weight: 500;
+  font-size: 20px;
+  transition: 400ms;
+}
+
+.account-input {
+  list-style-type: none;
+  grid-column: 3/4;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 60px;
+  font-family: opensans;
+  margin-right: 50px;
+}
+
+.signup-btn {
+  color: #9d9db5;
+  border: none;
+  font-size: 18px;
+  font-weight: 700;
+  background-color: #192140;
+}
+
+.login-btn {
+  color: #9d9db5;
+  border: none;
+  font-size: 18px;
+  font-weight: 700;
+  background-color: #192140;
+}
+
+button.signup-btn:hover {
+  color: #0266ff;
+  border: 1px solid #0266ff;
+  border-radius: 25px;
+  padding: 15px 25px;
+  font-size: 20px;
+  transition: 400ms;
+}
+
+button.login-btn:hover {
+  color: #0266ff;
+  border: 1px solid #0266ff;
+  border-radius: 25px;
+  padding: 15px 25px;
+  font-size: 20px;
+  transition: 400ms;
+}
+
+@media only screen and (max-width: 375px) {
+  .navbar {
+    width: 375px;
+  }
+
+  .refocus-logo {
+    width: 120px;
+    height: 50px;
+    padding-top: 15px;
+    padding-left: 20px;
+  }
+
+  .menu-list {
+    display: none;
+    width: 375px;
+  }
+
+  .account-input {
+    display: none;
+  }
+}

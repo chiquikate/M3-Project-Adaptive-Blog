@@ -1,0 +1,13 @@
+.root-layout {
+  width: 1440px;
+}
+
+.main {
+  min-height: 100vh;
+}
+
+@media only screen and (max-width: 375px) {
+  .root-layout {
+    width: 375px;
+  }
+}

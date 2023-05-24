@@ -1,0 +1,285 @@
+@font-face {
+  font-family: opensans;
+  src: url(../assets/OpenSans-SemiBold.ttf);
+}
+
+.add-page {
+  height: 100vh;
+}
+
+/* .container {
+  max-height: 100vh;
+} */
+
+.new-post {
+  position: absolute;
+  width: 590px;
+  height: 47px;
+  left: 110px;
+  top: 260px;
+
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  font-size: 30px;
+  letter-spacing: -0.02em;
+}
+
+.add-title {
+  position: absolute;
+  width: 590px;
+  height: 31px;
+  left: 110px;
+  top: 330px;
+
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  letter-spacing: -0.02em;
+}
+
+.title-content {
+  position: absolute;
+  width: 590px;
+  height: 50px;
+  left: 110px;
+  top: 370px;
+  padding: 8px;
+  border-radius: 4px;
+  background-color: white;
+
+  font-size: 20px;
+  font-family: opensans;
+  color: black;
+  text-align: center;
+  overflow-wrap: break-word;
+}
+
+.add-author {
+  position: relative;
+  width: 590px;
+  height: 31px;
+  left: 110px;
+  top: 230px;
+
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  letter-spacing: -0.02em;
+}
+
+.author-content {
+  position: relative;
+  width: 590px;
+  height: 10px;
+  left: 110px;
+  top: 235px;
+  padding: 8px;
+  border-radius: 4px;
+  background-color: white;
+
+  font-size: 10px;
+  font-family: opensans;
+  color: black;
+  text-align: justify;
+  overflow-wrap: break-word;
+}
+
+.add-text {
+  position: relative;
+  width: 590px;
+  height: 31px;
+  left: 110px;
+  top: 250px;
+
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  letter-spacing: -0.02em;
+}
+
+.text-content {
+  position: relative;
+  width: 590px;
+  height: 150px;
+  left: 110px;
+  top: 260px;
+  padding: 8px;
+  border-radius: 4px;
+  background-color: white;
+
+  font-size: 14px;
+  font-family: opensans;
+  color: black;
+  text-align: justify;
+  overflow-wrap: break-word;
+}
+
+.add-date {
+  position: relative;
+  width: 590px;
+  height: 31px;
+  left: 110px;
+  top: 280px;
+
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  letter-spacing: -0.02em;
+}
+
+.date-content {
+  position: relative;
+  width: 590px;
+  height: 10px;
+  left: 110px;
+  top: 290px;
+  padding: 8px;
+  border-radius: 4px;
+  background-color: white;
+
+  font-size: 10px;
+  font-family: opensans;
+  color: black;
+  text-align: justify;
+  overflow-wrap: break-word;
+}
+
+.post-btn {
+  position: relative;
+  width: 140px;
+  height: 50px;
+  left: 110px;
+  top: 350px;
+  margin-bottom: 200px;
+
+  background: #c0bfcf;
+  border: solid 1px #c0bfcf;
+  border-radius: 6px;
+  font-size: 16px;
+
+  cursor: pointer;
+}
+
+.add-image {
+  position: absolute;
+  width: 410px;
+  height: 320px;
+  left: 880px;
+  top: 450px;
+  background: #f8f9fc;
+}
+
+div.image-uploader {
+  width: 410px;
+  height: 320px;
+}
+
+.add-image-btn {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  color: #0266ff;
+
+  background-color: white;
+  border: solid 1px #0266ff;
+  padding: 10px 15px;
+  border-radius: 10px;
+
+  position: relative;
+  top: 130px;
+  left: 140px;
+}
+
+@media only screen and (max-width: 375px) {
+  .add-page {
+    height: 100%;
+  }
+  .new-post {
+    width: 300px;
+    height: 47px;
+    left: 20px;
+    font-size: 25px;
+  }
+
+  .add-title {
+    position: absolute;
+    width: 300px;
+    height: 31px;
+    left: 20px;
+    top: 320px;
+    font-size: 16px;
+  }
+
+  .title-content {
+    width: 310px;
+    left: 20px;
+    top: 350px;
+    height: 30px;
+    font-size: 14px;
+  }
+
+  .add-author {
+    width: 310px;
+    left: 20px;
+    top: 120px;
+    font-size: 16px;
+    letter-spacing: -0.02em;
+  }
+
+  .author-content {
+    width: 310px;
+    left: 20px;
+    top: 115px;
+    font-size: 10px;
+  }
+
+  .add-text {
+    width: 310px;
+    left: 20px;
+    top: 130px;
+    font-size: 16px;
+  }
+
+  .text-content {
+    width: 310px;
+    left: 20px;
+    top: 125px;
+    font-size: 12px;
+  }
+
+  .add-date {
+    width: 310px;
+    left: 20px;
+    top: 135px;
+    font-size: 16px;
+  }
+
+  .date-content {
+    width: 310px;
+    left: 20px;
+    top: 130px;
+    font-size: 10px;
+  }
+
+  .post-btn {
+    width: 100px;
+    height: 40px;
+    left: 20px;
+    top: 160px;
+    font-size: 14px;
+  }
+
+  .add-image {
+    display: none;
+  }
+
+  div.image-uploader {
+    display: none;
+  }
+
+  .add-image-btn {
+    display: none;
+  }
+}

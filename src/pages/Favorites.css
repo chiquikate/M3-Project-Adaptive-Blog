@@ -1,0 +1,27 @@
+:root {
+  color: black;
+}
+
+.favorites-container {
+  margin-top: 50px;
+}
+.favorite-card {
+  position: relative;
+  left: 90px;
+  height: 150px;
+  width: 380px;
+  border: solid 1px white;
+}
+
+@media only screen and (max-width: 375px) {
+  .favorites-container {
+    position: relative;
+    top: -30px;
+    margin-top: 0px;
+    width: 375px;
+  }
+  .favorite-card {
+    left: 15px;
+    width: 355px;
+  }
+}

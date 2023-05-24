@@ -1,0 +1,107 @@
+:root {
+  color: black;
+}
+
+.blog-card {
+  position: relative;
+  left: 90px;
+  height: 400px;
+  width: 380px;
+  border: solid 1px white;
+}
+
+.blog-card a {
+  text-decoration: none;
+}
+
+.title {
+  position: relative;
+  width: 310px;
+  height: 26px;
+  left: 30px;
+  right: 30px;
+  top: 10px;
+  font-family: "Inter", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  cursor: pointer;
+  color: black;
+  margin: 0px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-decoration: none;
+}
+
+.text {
+  position: relative;
+  width: 310px;
+  left: 30px;
+  right: 30px;
+  top: 20px;
+  font-family: "Inter", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  cursor: pointer;
+  color: #625f87;
+  margin: 0px;
+}
+
+.text {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.foot-note {
+  display: flex;
+  border-top: 1px solid #625f87;
+  position: relative;
+  width: 310px;
+  top: 30px;
+  left: 30px;
+  right: 30px;
+  font-size: 9px;
+  font-family: "Inter", sans-serif;
+  color: #625f87;
+}
+
+.author {
+  position: relative;
+  left: 15px;
+}
+
+.comment-icon {
+  position: absolute;
+  left: 200px;
+  top: 10px;
+  color: #9d9db5;
+}
+
+.comment-count {
+  position: absolute;
+  left: 220px;
+}
+
+.heart-btn {
+  position: absolute;
+  top: 10px;
+  left: 260px;
+  color: #9d9db5;
+  cursor: pointer;
+}
+
+.red-heart-btn {
+  position: absolute;
+  top: 10px;
+  left: 259px;
+  cursor: pointer;
+}
+
+.like-counter {
+  position: absolute;
+  left: 280px;
+}

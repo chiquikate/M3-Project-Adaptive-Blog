@@ -1,0 +1,347 @@
+[
+  {
+    "id": 10,
+    "title": "New Music New Vibes 🔥",
+    "text": "We're so excited to share our latest album with all of our amazing fans! We've been working hard on this one and can't wait for you to hear it 🎶 #KpopMusic #NewAlbum",
+    "author": "ECNO",
+    "date": "August 2 2023",
+    "likes": 1204,
+    "isLiked": false,
+    "comments": [
+      {
+        "text": "We're already obsessed with your new music! You guys never disappoint 🙌 #ECHO",
+        "author": "MlS",
+        "date": "August 2 2023",
+        "likes": 30,
+        "isLiked": false
+      },
+      {
+        "text": "Your hard work and dedication always shines through in your music. Can't wait to hear the new album 💜 #ECHO",
+        "author": "DARKINK",
+        "date": "August 2 2023",
+        "likes": 45,
+        "isLiked": false
+      },
+      {
+        "text": "ECHO never fails to impress us with their talent and creativity. Can't wait to hear the new album! 💿 #WeAreOne",
+        "author": "GOT9",
+        "date": "August 2 2023",
+        "likes": 26,
+        "isLiked": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Stay True to Yourself 👑",
+    "text": "No matter what anyone says always stay true to who you are and what you believe in. That's the key to success and happiness 💪 #KpopInspiration #BeYourself",
+    "author": "AY",
+    "date": "December 12 2023",
+    "likes": 2304,
+    "isLiked": false,
+    "comments": [
+      {
+        "text": "You are such an amazing role model for all of us, AY. Thank you for always staying true to yourself 💜 #KpopLove",
+        "author": "Sunshine Kids",
+        "date": "December 12 2023",
+        "likes": 12,
+        "isLiked": false
+      },
+      {
+        "text": "Your words always inspire us to be the best versions of ourselves. Thank you for being such an incredible artist and person 🌟 #KpopQueen",
+        "author": "Nannoo",
+        "date": "December 13 2023",
+        "likes": 25,
+        "isLiked": false
+      },
+      {
+        "text": "You are a true inspiration to all of us, AY. Thank you for always standing up for what you believe in and being an amazing artist 🙏 #KpopInspiration",
+        "author": "CFriend",
+        "date": "December 12 2023",
+        "likes": 10,
+        "isLiked": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Taking a Break 🏖️",
+    "text": "It's been a busy year, but we're finally taking some time to relax and recharge on a beautiful beach ☀️ #KpopVacation #BeachVibes",
+    "author": "Blue Cotton",
+    "date": "June 27 2023",
+    "likes": 3400,
+    "isLiked": true,
+    "comments": [
+      {
+        "text": "You guys deserve this break so much! Enjoy the sun, sand, and sea 💙 #BlueCotton",
+        "author": "MLS",
+        "date": "June 27 2023",
+        "likes": 108,
+        "isLiked": true
+      },
+      {
+        "text": "Have an amazing time, girls! You deserve all the rest and relaxation in the world 🌴",
+        "author": "GANGSTA G",
+        "date": "June 27 2023",
+        "likes": 76,
+        "isLiked": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Feeling the Love 🥰",
+    "text": "Thank you to all of our amazing fans for showing us so much love and support! We couldn't do this without you ❤️ #KpopLove #FanArmy",
+    "author": "MLS",
+    "date": "April 14 2023",
+    "likes": 2756,
+    "isLiked": true,
+    "comments": [
+      {
+        "text": "We love you guys so much! Thank you for always inspiring us and making us smile ❤️ #ARMYForever",
+        "author": "DARKPINK",
+        "date": "April 14, 2023",
+        "likes": 34,
+        "isLiked": false
+      },
+      {
+        "text": "You guys are the reason we do what we do! Thank you for being such an incredible fanbase 💕 #PINKS",
+        "date": "April 14, 2023",
+        "author": "ONCE",
+        "likes": 28,
+        "isLiked": true
+      },
+      {
+        "text": "We appreciate every single one of you! Thank you for always lifting us up 🙏 #FanLove",
+        "author": "ECNO",
+        "date": "April 14, 2023",
+        "likes": 76,
+        "isLiked": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "My favorite childhood memory 🧸💭",
+    "text": "One of my favorite childhood memories is when my mom surprised me with my first teddy bear! It was a big, fluffy bear that I immediately fell in love with. I used to take it everywhere with me, and even slept with it every night. It's amazing how something so simple can bring so much joy and comfort. What are some of your favorite childhood memories? 🌟🌈",
+    "author": "Minoo from DARKPINK",
+    "date": "May 24, 2023",
+    "likes": 2404,
+    "isLiked": false,
+    "comments": [
+      {
+        "text": "Aww, that's so cute Minoo! My favorite childhood memory is spending summers at the beach with my family ☀️🏖️ - ",
+        "author": "Lennie Win",
+        "date": "May 25, 2023",
+        "likes": 27,
+        "isLiked": false
+      },
+      {
+        "text": "I remember my dad taking me to my first MLS concert and feeling so inspired by the music and energy. It was life-changing ✨🎶 - ",
+        "author": "Linda from DARKPINK",
+        "date": "May 26, 2023",
+        "likes": 55,
+        "isLiked": false
+      },
+      {
+        "text": "I used to love playing dress-up with my sister and pretending we were pop stars 🎤👯‍♀️ Those were the days! - ",
+        "author": "Josie from DARKPINK",
+        "date": "May 26, 2023",
+        "likes": 38,
+        "isLiked": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Trying new things in the studio 🎶💻",
+    "text": "Lately, I've been experimenting with some new sounds and styles in the studio and it's been so much fun! It's important to keep growing as an artist and challenging yourself creatively. I can't wait for you all to hear what I've been working on 🔥🎧",
+    "author": "LN from MLS",
+    "date": "June 3, 2023",
+    "likes": 1876,
+    "isLiked": false,
+    "comments": [
+      {
+        "text": "I can't wait to hear it, LN! You always bring something fresh and unique to your music 🙌🏻",
+        "author": "Stacy",
+        "date": "June 4, 2023",
+        "likes": 5,
+        "isLiked": false
+      },
+      {
+        "text": "I'm excited to see what you come up with, LN! Keep pushing the boundaries and inspiring us all 🌟👏🏻",
+        "author": "Lila",
+        "date": "June 5, 2023",
+        "likes": 4,
+        "isLiked": false
+      },
+      {
+        "text": "You're always evolving and exploring new things, LN. That's what makes you such an incredible artist and leader. Can't wait for the new music 🎶💜",
+        "author": "Sal from MLS",
+        "date": "June 6, 2023",
+        "likes": 2,
+        "isLiked": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Feeling cute, might delete later 🤪",
+    "text": "Just feeling cute today! Hope everyone is having a good day 💜",
+    "author": "Nisoo from DARKPINK",
+    "date": "June 22, 2023",
+    "likes": 1969,
+    "isLiked": true,
+    "comments": [
+      {
+        "text": "You look absolutely stunning Nisoo! 😍💜",
+        "author": "Lisa",
+        "date": "June 23, 2023",
+        "likes": 156,
+        "isLiked": true
+      },
+      {
+        "text": "Can you stop being so perfect? 😩❤️ - ",
+        "author": "Jennie",
+        "date": "June 23, 2023",
+        "likes": 106,
+        "isLiked": false
+      },
+      {
+        "text": "Aww you're so adorable, Nisoo! 😘 - ",
+        "author": "AY",
+        "date": "June 24, 2023",
+        "likes": 87,
+        "isLiked": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "New album coming soon 👀",
+    "text": "Can't wait for you all to hear our new album! Stay tuned 😎",
+    "author": "LN from MLS",
+    "date": "August 8, 2023",
+    "likes": 1506,
+    "isLiked": false,
+    "comments": [
+      {
+        "text": "Yessss, can't wait LN! 😍🔥",
+        "author": "Ginger1996",
+        "date": "August 9, 2023",
+        "likes": 56,
+        "isLiked": false
+      },
+      {
+        "text": "You guys are gonna kill it as always 💜",
+        "author": "KillerQueen",
+        "date": "August 10, 2023",
+        "likes": 67,
+        "isLiked": false
+      },
+      {
+        "text": "I'm counting down the days! 🤩",
+        "author": "LindaXOXO",
+        "date": "August 11, 2023",
+        "likes": 42,
+        "isLiked": true
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Back at rehearsals 💪🏼",
+    "text": "Practicing hard for our upcoming tour! Can't wait to see all of our fans 😘",
+    "author": "Raymond from Boys' Population",
+    "date": "September 1, 2023",
+    "likes": 1204,
+    "isLiked": false,
+    "comments": [
+      {
+        "text": "I'm sure you guys will rock the stage, Raymond! 🎤💜",
+        "author": "Tiffany",
+        "date": "September 2, 2023",
+        "likes": 26,
+        "isLiked": false
+      },
+      {
+        "text": "I'm excited to see you perform again! 😍❤️",
+        "author": "AY",
+        "date": "September 2, 2023",
+        "likes": 16,
+        "isLiked": false
+      },
+      {
+        "text": " Good luck with rehearsals! Can't wait to see the show 🤩",
+        "author": "Songmi",
+        "date": "September 3, 2023",
+        "likes": 7,
+        "isLiked": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Trying out a new hairstyle 🤔",
+    "text": "Decided to change things up with a new hairstyle! What do you all think? 😊",
+    "author": "Nelson Lang from GOT9",
+    "date": "October 13, 2023",
+    "likes": 1097,
+    "isLiked": true,
+    "comments": [
+      {
+        "text": "I'm loving the new look, Nelson! 😍🔥 -",
+        "author": "Lisa",
+        "date": "October 14, 2023",
+        "likes": 12,
+        "isLiked": true
+      },
+      {
+        "text": "You can pull off any hairstyle, king! 👑💜",
+        "author": "Stacy",
+        "date": "October 14, 2023",
+        "likes": 6,
+        "isLiked": false
+      },
+      {
+        "text": "Looking good as always, Nelson! 👌🏼",
+        "author": "Shawn_STAR",
+        "date": "October 15, 2023",
+        "likes": 2,
+        "isLiked": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Treat yourself today 🍦",
+    "text": "Life's too short, so why not treat yourself to some ice cream today? 😜",
+    "author": "Mandy from Blue Cotton",
+    "date": "November 3, 2023",
+    "likes": 965,
+    "isLiked": false,
+    "comments": [
+      {
+        "text": "I'm down for some ice cream! 🍦😍",
+        "author": "JoyLove",
+        "date": "November 4, 2023",
+        "likes": 4,
+        "isLiked": false
+      },
+      {
+        "text": "I'm always down for a good treat! 😋❤️",
+        "author": "AY",
+        "date": "November 4, 2023",
+        "likes": 2,
+        "isLiked": false
+      },
+      {
+        "text": "You deserve it Mandy! 🙌🏼",
+        "author": "Raymond from BCT",
+        "date": "November 5, 2023",
+        "likes": 0,
+        "isLiked": false
+      }
+    ]
+  }
+]
